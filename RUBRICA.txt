@@ -1,0 +1,12 @@
+Examen final
+
+- Dos entrades d'input: Crouch(tecla Q) i restart (només quan mor el player)
+- 3 triggers: zona de confusió(zona blava), item recolectable(zona groga), zona de mort(zona vermella)
+- 3 tipus de llum: point light, rect light i spot light + cicle dia nit
+- Hud que mostra diferents dades: s'hi s'ha recollit l'item, temps transcorregut, s'hi el player està viu
+- 2 Animacions del hud: una vertical i una horitzontal
+- 2 estats afegits a l'animation blueprint: crouch i death
+- A l'agafar l'ítem sona un so, si llavors mors i recarregues el nivell i tornes a agafar l'item sona un altre so, a més sona amb pitch random
+- Funcionalitat de restart game a l'entrar a la zona de llum vermella
+
+La baixa potència del meu PC em feia impossible crear el terrain apart de que unreal petava varies vegades
